@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day 1</string>
+
+    <string name="textView">Press a button</string>
+
+    <string name="buttonRed">RED</string>
+    <string name="buttonGreen">GREEN</string>
+    <string name="buttonBlue">BLUE</string>
+</resources>
